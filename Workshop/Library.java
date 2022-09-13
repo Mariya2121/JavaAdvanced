@@ -1,6 +1,6 @@
 package Workshop;
 
-import iteratorsAndComperators.Book;
+import IteratorsAndComperators.Book;
 
 import java.util.Arrays;
 import java.util.Iterator;
