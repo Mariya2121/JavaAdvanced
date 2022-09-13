@@ -1,0 +1,3 @@
+ - Primitive data types - includes byte , short , int , long , float , double , boolean and char.
+ - Reference data types - class, interface, String, Arrays
+ - - String is reference type, but it is immutable.It means once we assigned a value, it cannot be change; 
